@@ -34,7 +34,7 @@ MONGOURL= "Whatever you get back from the mongo db url"
 
 Here is a [video](https://youtu.be/bhiEJW5poHU) on how to setup your MongoDB.
 You have to open a Free account with [Mongo DB](https://www.mongodb.com/cloud/atlas/register)
-Once you have an account, please follow the [video](https://youtu.be/bhiEJW5poHU) instructions to setup a free database. One your free Database has been setup, you will have a Mongo DB URL. Please add that URL in your .env file as shown in step 3.
+Once you have an account, please follow the [video](https://youtu.be/bhiEJW5poHU) instructions to setup a free database. Once your free Database has been setup, you will have a Mongo DB URL. Please add that URL in your .env file as shown in step 3.
 
 #### 5. Start the app
 

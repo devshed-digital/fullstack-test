@@ -85,3 +85,17 @@ Try and keep these 3 things in mind.
 # Questions
 
 Once completed please answer the following questions.
+
+### Did you add any libraries or NPM packages (please leave blank if no)
+
+### What would be your approach to ensuring the application is ready for production (testing)?
+
+### If your form was given a new type of input field (such as a number field), how reusable are your components?
+
+### What did you not include in your solution that you want us to know about? Were you short on time and not able to include something that you want us to know about? Please list it here so that we know that you considered it.
+
+### Other information about your submission that you feel it's important that we know if applicable.
+
+### Your feedback on this technical challenge
+
+Have feedback for how we could make this assignment better? Please let us know.

@@ -8,7 +8,7 @@ function App() {
   const [message, setMessage] = useState('');
 
   useEffect(() => {
-    axios.get('http://localhost:8081/api/example')
+    axios.get(`${process.env.REACT_APP_BASE_URL}/api/example`)
       .then((data) => {
         console.log(data)
         setMessage(data.data.text)

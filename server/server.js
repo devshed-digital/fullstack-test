@@ -3,6 +3,7 @@ require('dotenv').config();
 const express = require('express');
 const morgan = require('morgan');
 const mongoose = require('mongoose');
+const cors = require('cors')
 
 const PORT = process.env.PORT || 8080;
 const app = express();
@@ -10,6 +11,7 @@ const app = express();
 app.use(morgan('dev'));
 
 app.use(express.urlencoded({ extended: true }));
+app.use(cors());
 
 // Make sure you have a .env file with this value, otherwise your DB won't work.
 const mongoURL = process.env.MONGOURL

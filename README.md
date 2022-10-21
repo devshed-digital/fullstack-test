@@ -6,7 +6,7 @@
 
 This project is built on the MERN Stack ([Mongo](https://www.mongodb.com/docs/), [Express](https://expressjs.com/), [React](https://reactjs.org/), [Node](https://nodejs.org/en/)).
 
-Additionally, you'll have access to axios for your API request. If you decide to install any additional libraries or NPM packages please note them down and add a quick explaination.
+Additionally, you'll have access to [Axios](https://axios-http.com/docs/intro) for your API request. If you decide to install any additional libraries or NPM packages please note them down and add a quick explaination.
 
 #### 2. Install your dependencies
 

@@ -30,6 +30,18 @@ In that .env you need to add
 MONGOURL= "Whatever you get back from the mongo db url"
 ```
 
+In your Client folder you must create an .env file.
+
+```
+touch .env
+```
+
+In that .env you need to add
+
+```
+REACT_APP_BASE_URL= " Whatever your server's localhost is, example: 'http://localhost:8081' "
+```
+
 #### 4. Setting up Mongo DB
 
 Here is a [video](https://youtu.be/bhiEJW5poHU) on how to setup your MongoDB.

@@ -15,8 +15,6 @@ function App() {
       })
   },[])
 
-  // update
-  
 
   return (
     <div className="App">

@@ -39,7 +39,7 @@ touch .env
 In that .env you need to add
 
 ```
-REACT_APP_BASE_URL= " Whatever your server's localhost is, example: 'http://localhost:8081' "
+REACT_APP_BASE_URL= " Whatever your server's localhost is, example: 'http://localhost:8080' "
 ```
 
 #### 4. Setting up Mongo DB

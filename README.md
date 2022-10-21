@@ -18,7 +18,7 @@ npm i
 
 #### 3. Create .env file and adding your Mongo DB
 
-On your Sever file you MUST create an .env file.
+On your Sever folder you MUST create an .env file.
 
 ```
 touch .env

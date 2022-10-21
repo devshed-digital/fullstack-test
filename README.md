@@ -30,7 +30,7 @@ In that .env you need to add
 MONGOURL= "Whatever you get back from the mongo db url"
 ```
 
-In your Client folder you must create an .env file.
+In your Client folder you must create an .env file. React has preset rules for how their .env files work. [Shown here](https://create-react-app.dev/docs/adding-custom-environment-variables/)
 
 ```
 touch .env
